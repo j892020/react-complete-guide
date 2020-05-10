@@ -1,0 +1,10 @@
+{
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact"
+    },
+    "prettier.tabWidth": 4,
+    "prettier.singleQuote": true,
+    "prettier.useTabs": true,
+    "editor.formatOnSave": true,
+    "files.autoSave": "onFocusChange"
+}
